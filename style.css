@@ -514,19 +514,19 @@ footer{
 @media screen and (max-width:992px) {
     .extra-width{
         max-width: 50%;
-        width: 100%;
+        width: 90%;
     }
     .width{
-        max-width: 100%;    
+        max-width: 90%;    
     }
 }
 @media screen and (max-width:768px) {
     .extra-width{
-        max-width: 100%;
+        max-width: 80%;
         width: 100%;
     }
     .width{
-        max-width: 100%;    
+        max-width: 80%;    
         margin-left: 30px;
     }
     .fot-link .nav-link{
